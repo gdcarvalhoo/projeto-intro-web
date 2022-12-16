@@ -53,10 +53,6 @@ A página consiste em um HTML, ligado a um ou mais arquivos CSS, e um ou mais ar
 - Crie os arquivos do projeto dentro deste repo;
 - Execute o fluxo de entrega do git. **Lembre-se de abrir os PRs para seu próprio repositório.**
 - Para isso, você precisará fazer o projeto utilizando **branches**. Evite fazer as alterações direto na branch ```main```
-    <details>
-       <summary>Dúvidas sobre o Git & Github?</summary>
-       <p>Adiciomos um vídeo explicando o <strong>processo de entrega</strong> [do fork ao pull request] no Material Assincrono da Aula de <a href="https://estudante.labenu.com.br/conteudos/tecnico/mod1/Git%20e%20Github">Git e Github</a>. Esse vídeo também exemplifica situações que podem acontecer durante o fluxo de utilização do Git.</p>
-    </details>
 - Entregue o **link do repo** no [Formulário de entrega](https://forms.gle/Q1mXTJFxwVUgUnrZA).
 
 **Opcional**: Tente utilizar o **Github pages** para fazer o deploy do seu projeto.
