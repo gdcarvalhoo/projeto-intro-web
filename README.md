@@ -1,4 +1,4 @@
-# projeto-intro-web
+# Projeto de Introdução ao desenvolvimento web
 
 Esse é o projeto de introdução aos fundamentos do desenvolvimento Web. Aqui, vamos praticar a estrutura do que faremos pelo curso todo. O objetivo é construir uma página estilizada, e com **lista** e **busca** utilizando manipulação de DOM, praticando o conteúdo do módulo com JS:
 
@@ -46,23 +46,17 @@ A página consiste em um HTML, ligado a um ou mais arquivos CSS, e um ou mais ar
 ### Instruções de entrega
 
 - Faça o fork desse repositório e realize o clone da sua cópia `seu-nome-de-usuario/projeto-intro-web`.
-- Adicione o arquivo baixado a uma pasta na raiz do seu repositório local
    <details>
    <summary>Quer uma dica?</summary>
-   <img src="assets/adicionar-no-repo.png" alt="Como adicionar o projeto no repositório"/>
+   <img src="https://firebasestorage.googleapis.com/v0/b/assets-conteudo.appspot.com/o/gerais%2Ffork.png?alt=media&token=7030e997-246a-41fe-a75f-2a2ced61e54d" alt="Como adicionar o projeto no repositório"/>
    </details>
-- Execute o fluxo de entrega do git. **Lembre-se de abrir o PR para seu próprio repositório.**
+- Crie os arquivos do projeto dentro deste repo;
+- Execute o fluxo de entrega do git. **Lembre-se de abrir os PRs para seu próprio repositório.**
+- Para isso, você precisará fazer o projeto utilizando **branches**. Evite fazer as alterações direto na branch ```main```
     <details>
-       <summary>Dúvidas sobre o Git & Github?</summary>
+       <summary>Dúvidas sobre o GIT & Github?</summary>
        <p>Adiciomos um vídeo explicando o <strong>processo de entrega</strong> [do fork ao pull request] no Material Assincrono da <a href="https://classroom.google.com/w/NTM0NjA2NDg3MjIx/tc/NTM2NDg5NTQyODg4">A005 - Git e Github</a>. Esse vídeo também exemplifica situações que podem acontecer durante o fluxo de utilização do Git.</p>
     </details>
-- Entregue o **link do PR** no [Formulário de entrega](https://forms.gle/2GRK4tWBdCz8jAaY6). **Não faça o merge ainda.**
-   <details>
-      <summary>Ajuda pra saber onde achar o link do PR?</summary>
-      <p>
-         Ao gerar o Pull Request, copie a url que estará no navegador e vai se parecer com isso: <code>https://github.com/seu-nome-de-usuario/projeto-intro-web/pull/1</code>
-      </p>
-   </details>
-- **O retorno do projeto será comentado no PR**, comunicaremos nos canais de anúncio quando todos estiverem feitos. A partir dai, **vocês poderão mergear a branch de trabalho com a branch principal**.
+- Entregue o **link do repo** no [Formulário de entrega](https://forms.gle/Q1mXTJFxwVUgUnrZA).
 
 **Opcional**: Tente utilizar o **Github pages** para fazer o deploy do seu projeto.
